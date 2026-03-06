@@ -1,2 +1,2 @@
-# Zomato-clone-app-
-“A simple Zomato homepage clone built using HTML and CSS.”
+# Zomato-clone-app
+“A simple Zomato homepage clone created using HTML and CSS.”
